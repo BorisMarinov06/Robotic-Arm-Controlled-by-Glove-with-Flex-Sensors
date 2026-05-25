@@ -1,4 +1,4 @@
-🤖 Robotic Arm Controlled by Flex Sensor Glove
+🤖 Robotic Hand Controlled by Flex Sensor Glove
 
 A wireless 3D-printed robotic arm controlled using a glove with flex sensors and Arduino Nano microcontrollers.
 
@@ -52,7 +52,7 @@ Function
 
 The Arduino reads analog values from the flex sensors and transmits them wirelessly to the robotic arm.
 
-2️⃣ Robotic Arm
+2️⃣ Robotic Hand
 
 The robotic arm receives wireless data and moves the servos.
 
