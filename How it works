@@ -1,0 +1,25 @@
+Step-by-Step Process
+  
+1. Finger Movement
+
+The user bends their fingers while wearing the glove.
+
+2. Sensor Detection
+
+Flex sensors change resistance depending on bend angle.
+
+3. Data Processing
+
+Arduino Nano converts sensor readings into usable values.
+
+4. Wireless Transmission
+
+The transmitter sends the data through the RF module.
+
+5. Signal Reception
+
+The receiver Arduino receives and processes the data.
+
+6. Servo Control
+
+Servo motors move the robotic arm based on the received values.
